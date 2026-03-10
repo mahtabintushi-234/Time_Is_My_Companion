@@ -1,0 +1,11 @@
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\bin\Debug\Lab5b.exe.config
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\bin\Debug\Lab5b.exe
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\bin\Debug\Lab5b.pdb
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\obj\Debug\Lab5b.csproj.AssemblyReference.cache
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\obj\Debug\Lab5b.Form1.resources
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\obj\Debug\Lab5b.Properties.Resources.resources
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\obj\Debug\Lab5b.csproj.GenerateResource.cache
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\obj\Debug\Lab5b.csproj.CoreCompileInputs.cache
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\obj\Debug\Lab5b.exe
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\obj\Debug\Lab5b.pdb
+C:\Users\mahta\OneDrive - Mohawk College of Applied Arts and Technology\Documents\Lab5b\obj\Debug\Lab5b.exe.config
